@@ -1,0 +1,5 @@
+# Ignore ZIP archives
+*.zip
+
+# Ignore local server script
+server.ps1
